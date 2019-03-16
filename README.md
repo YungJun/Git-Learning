@@ -7,7 +7,7 @@
 ## 目录
 > + [1.Git安装与版本库创建](./res/post/1.Set_up_Git_and_Creat_repository.md)
 > 
-> + [2.时空机穿梭]()
+> + [2.时空机穿梭](./res/post/2.Time_Machine.md)
 > 
 > + [3.远程仓库]()
 > 
