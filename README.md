@@ -5,7 +5,7 @@
 对于编写程序而言，实践是最好的老师，因此将[廖老师Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)学习过程记录于此，不时复习！
 
 ## 目录
-> + [1.Git安装与版本库创建]()
+> + [1.Git安装与版本库创建](./res/post/1.Set_up_Git_and_Creat_repository.md)
 > 
 > + [2.时空机穿梭]()
 > 
