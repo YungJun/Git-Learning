@@ -17,7 +17,7 @@
 > 
 > + [6.多人协作](./res/post/6.Cooperation.md)
 > 
-> + [7.标签管理]()
+> + [7.标签管理](./res/post/7.tag_management.md)
 > 
 > + [8.Github使用]()
 > 
