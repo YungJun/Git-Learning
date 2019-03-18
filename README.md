@@ -19,6 +19,4 @@
 > 
 > + [7.标签管理](./res/post/7.tag_management.md)
 > 
-> + [8.Github使用]()
-> 
-> + [9.自定义Git]()
+> + [8.自定义Git](./res/post/8.design_git.md)
