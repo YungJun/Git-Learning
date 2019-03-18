@@ -13,14 +13,12 @@
 > 
 > + [4.分支管理](./res/post/4.Branch_management.md)
 > 
-> + [5.实操情景：Bug分支]()
+> + [5.实操情景：Bug和feature分支](./res/post/5.Bug_feature_Branch.md)
 > 
-> + [6.实操情景：feature分支]()
+> + [6.多人协作]()
 > 
-> + [7.多人协作]()
+> + [7.标签管理]()
 > 
-> + [8.标签管理]()
+> + [8.Github使用]()
 > 
-> + [9.Github使用]()
-> 
-> + [10.自定义Git]()
+> + [9.自定义Git]()
