@@ -15,7 +15,7 @@
 > 
 > + [5.实操情景：Bug和feature分支](./res/post/5.Bug_feature_Branch.md)
 > 
-> + [6.多人协作]()
+> + [6.多人协作](./res/post/6.Cooperation.md)
 > 
 > + [7.标签管理]()
 > 
