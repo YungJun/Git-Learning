@@ -22,7 +22,7 @@
 > + [8.自定义Git](./res/post/8.design_git.md)
 
 ## 附：常用命令总结
-![](./res/img/Git_command_table.jpg)
+![](./res/img/Git_Command_table.jpg)
 ### 分支操作
 + git branch 创建分支
 
